@@ -768,6 +768,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   z-index: 10;
 }
 
+#experience .icon {
+  float: right;
+}
+
 
 /* activities Section
 --------------------------------*/
